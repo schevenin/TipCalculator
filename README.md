@@ -35,8 +35,7 @@ GIF created with QuickTime.
 
 ## Notes
 
-Describe any challenges encountered while building the app:
-Most challenging part was figuring out how I wanted to layout my UI elements.
+Describe any challenges encountered while building the app.
 
 ## License
 
