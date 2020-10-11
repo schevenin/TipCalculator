@@ -15,6 +15,7 @@
 		B30CBC7B253263BC00D00C06 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B30CBC79253263BC00D00C06 /* LaunchScreen.storyboard */; };
 		B30CBC86253263BC00D00C06 /* tipTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B30CBC85253263BC00D00C06 /* tipTests.swift */; };
 		B30CBC91253263BC00D00C06 /* tipUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B30CBC90253263BC00D00C06 /* tipUITests.swift */; };
+		B30CBCA52532BF7200D00C06 /* dreamstime_xxl_35121528.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B30CBCA42532BF7100D00C06 /* dreamstime_xxl_35121528.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B30CBC8C253263BC00D00C06 /* tipUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B30CBC90253263BC00D00C06 /* tipUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipUITests.swift; sourceTree = "<group>"; };
 		B30CBC92253263BC00D00C06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B30CBCA42532BF7100D00C06 /* dreamstime_xxl_35121528.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dreamstime_xxl_35121528.jpg; path = ../../../Downloads/dreamstime_xxl_35121528.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				B30CBC72253263B900D00C06 /* ViewController.swift */,
 				B30CBC74253263B900D00C06 /* Main.storyboard */,
 				B30CBC77253263BC00D00C06 /* Assets.xcassets */,
+				B30CBCA42532BF7100D00C06 /* dreamstime_xxl_35121528.jpg */,
 				B30CBC79253263BC00D00C06 /* LaunchScreen.storyboard */,
 				B30CBC7C253263BC00D00C06 /* Info.plist */,
 			);
@@ -233,6 +236,7 @@
 			files = (
 				B30CBC7B253263BC00D00C06 /* LaunchScreen.storyboard in Resources */,
 				B30CBC78253263BC00D00C06 /* Assets.xcassets in Resources */,
+				B30CBCA52532BF7200D00C06 /* dreamstime_xxl_35121528.jpg in Resources */,
 				B30CBC76253263B900D00C06 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
